@@ -1,2 +1,2 @@
 # projetos-aula-sdm
-Projetos aula de sistemas distribuídos e mobile
+Projetos da aula de sistemas distribuídos e mobile
